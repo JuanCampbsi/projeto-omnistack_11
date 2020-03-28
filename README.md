@@ -42,8 +42,8 @@ via Whatsapp e Email. O projeto foi realizado durante a Semana OmniStack da Rock
 
 ## Telas
 #### WEB
-![Sistema Web]()
+![Sistema Web](https://github.com/JuanCampbsi/Projeto-Omnistack-/blob/master/Tela-web_page-0001%20(3).jpg)
 
 
 #### Mobile
-![Sistema Web]()
+![Sistema Web](https://github.com/JuanCampbsi/Projeto-Omnistack-/blob/master/merge_from_ofoct.jpg)
