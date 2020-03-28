@@ -46,4 +46,4 @@ via Whatsapp e Email. O projeto foi realizado durante a Semana OmniStack da Rock
 
 
 #### Mobile
-![Sistema Web](https://github.com/JuanCampbsi/Projeto-Omnistack-/blob/master/merge_from_ofoct.jpg)
+![Sistema Web](https://github.com/JuanCampbsi/Projeto-Omnistack-/blob/master/tela-mobile_page-0001%20(1).jpg)
