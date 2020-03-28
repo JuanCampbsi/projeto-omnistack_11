@@ -8,7 +8,7 @@ que possuem casos dos mais variados tipos. As ONGS podem ser cadastradas em um s
 dentro do sistema web são cadastrados o título do caso, a descrição e os valores em reais da ajuda. 
 As pessoas podem ajudar através da aplicação mobile criada, onde é possível ver todos os casos e seus detalhes e entrar em contato 
 via Whatsapp e Email. O projeto foi realizado durante a Semana OmniStack da RocketSeat 11.0
-![Sistema Web](https://github.com/JuanCampbsi/Projeto-Omnistack-/blob/master/Wallpaper%20OmniStack%2011%20-%201440x900.jpg)
+*![Sistema Web](https://github.com/JuanCampbsi/Projeto-Omnistack-/blob/master/Wallpaper%20OmniStack%2011%20-%201440x900.jpg)
 
 
 ###  Modelo Conceitual: Entidades e Funcionalidades
