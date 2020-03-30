@@ -46,8 +46,8 @@ via Whatsapp e Email.
 
 ## Telas
 #### WEB
-![Sistema Web](https://github.com/JuanCampbsi/Projeto-Omnistack-/blob/master/Tela-web_page-0001%20(3).jpg)
+![Sistema Web](https://github.com/JuanCampbsi/Projeto-Omnistack-/blob/master/tela-web_page-0001%20(1)%20(2).jpg)
 
 
 #### Mobile
-![Sistema Web](https://github.com/JuanCampbsi/Projeto-Omnistack-/blob/master/tela-mobile_page-0001%20(1).jpg)
+![Sistema Web](https://github.com/JuanCampbsi/Projeto-Omnistack-/blob/master/tela-mobile_page-0001%20(1)%20(2).jpg)
