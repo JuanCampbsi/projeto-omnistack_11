@@ -9,9 +9,9 @@ dentro do sistema web são cadastrados o título do caso, a descrição e os val
 As pessoas podem ajudar através da aplicação mobile criada, onde é possível ver todos os casos e seus detalhes e entrar em contato 
 via Whatsapp e Email. 
 * O projeto foi realizado durante a Semana OmniStack da RocketSeat 11.0
-
+<p align="center">
 ![Sistema Web](https://github.com/JuanCampbsi/Projeto-Omnistack-/blob/master/.github/Wallpaper%20OmniStack%2011%20-%201440x900.jpg)
-
+</p>
 
 ###  Modelo Conceitual: Entidades e Funcionalidades
 #### ONG
