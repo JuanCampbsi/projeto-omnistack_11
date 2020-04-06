@@ -10,7 +10,7 @@ As pessoas podem ajudar através da aplicação mobile criada, onde é possível
 via Whatsapp e Email. 
 * O projeto foi realizado durante a Semana OmniStack da RocketSeat 11.0
 
-![Sistema Web](https://github.com/JuanCampbsi/Projeto-Omnistack-/blob/master/Wallpaper%20OmniStack%2011%20-%201440x900.jpg)
+![Sistema Web](https://github.com/JuanCampbsi/Projeto-Omnistack-/blob/master/.github/Wallpaper%20OmniStack%2011%20-%201440x900.jpg)
 
 
 ###  Modelo Conceitual: Entidades e Funcionalidades
