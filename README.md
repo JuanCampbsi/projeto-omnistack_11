@@ -1,8 +1,8 @@
-# Projeto-Omnistack-11
+# Projeto-Omnistack-11🚀💻
 
 
 
-### Descrição
+### Descrição 🏡
 O objetivo do sistema é conectar pessoas que querem ajudar financeiramente á ONGS (Organizações não governamentais sem fins lucrativos)
 que possuem casos dos mais variados tipos. As ONGS podem ser cadastradas em um sistema web no qual gera um ID para login e
 dentro do sistema web são cadastrados o título do caso, a descrição e os valores em reais da ajuda. 
@@ -12,7 +12,7 @@ via Whatsapp e Email.
 
 <p align="center">
   <a>
-    <img alt="Repository size" src="https://github.com/JuanCampbsi/Projeto-Omnistack-/blob/master/.github/Wallpaper%20OmniStack%2011%20-%201440x900.jpg">
+    <img alt="Repository size" src="https://github.com/JuanCampbsi/Projeto-Omnistack-/blob/master/frontend/src/assets/logo.svg">
   </a>
 </p>
 
@@ -48,7 +48,7 @@ via Whatsapp e Email.
 
 
 ## Telas
-#### WEB
+#### WEB💻
 
 <p align="center">
   <a>
@@ -57,7 +57,7 @@ via Whatsapp e Email.
 </p>
 
 
-#### Mobile
+#### Mobile📱
 
 <p align="center">
   <a>
