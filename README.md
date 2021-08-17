@@ -64,3 +64,8 @@ via Whatsapp e Email.
     <img alt="Repository size" src="https://github.com/JuanCampbsi/Projeto-Omnistack-/blob/master/.github/tela-mobile_page-0001%20(1)%20(2).jpg">
   </a>
 </p>
+
+
+👨‍💻 **Author** 💻
+
+Developed by [_Juan Campos_](https://www.linkedin.com/in/juancampos-ferreira/)
