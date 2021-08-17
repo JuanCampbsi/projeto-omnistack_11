@@ -1,14 +1,15 @@
-# Projeto Omnistack-11🚀💻🏋️‍♂️💪
+# Project Omnistack-11🚀💻🏋️‍♂️💪
 
 
 
-### Descrição 🏡
-O objetivo do sistema é conectar pessoas que querem ajudar financeiramente á ONGS (Organizações não governamentais sem fins lucrativos)
-que possuem casos dos mais variados tipos. As ONGS podem ser cadastradas em um sistema web no qual gera um ID para login e
-dentro do sistema web são cadastrados o título do caso, a descrição e os valores em reais da ajuda. 
-As pessoas podem ajudar através da aplicação mobile criada, onde é possível ver todos os casos e seus detalhes e entrar em contato 
-via Whatsapp e Email. 
-* O projeto foi realizado durante a Semana OmniStack da RocketSeat 11.0
+### Description 🏡
+The purpose of the system is to connect people who want to help financially to NGOs (Non-Profit Non-Governmental Organizations)
+that have cases of the most varied types. NGOs can be registered on a web system which generates an ID for login and
+The case title, description and help values ​​in reais are registered within the web system.
+People can help through the mobile application created, where it is possible to see all cases and their details and get in touch
+via Whatsapp and Email.
+
+* The project was carried out during the OmniStack Week of RocketSeat 11.0
 
 <p align="center">
   <a>
@@ -16,38 +17,40 @@ via Whatsapp e Email.
   </a>
 </p>
 
-###  Modelo Conceitual: Entidades e Funcionalidades
+###  Model Conceptual: Entities and Functions
 #### ONG
-* Cadastrar
+* Register
 * Login
 * Logout
-* Contato
+* Contact
 
-#### CASOS (incident)
-* Cadastrar
-* Deletar
-* Listar
+#### CASES (incident)
+* Register
+* Delete
+* List
 
 ## Back-end
 
 * Node.js
-* Módulo de Segurança - Cross-Origin Resource Sharing (CORS) - Define quem possui autoridade de acessar a aplicação
-* Banco utilizado - SQLite
-* Recursos - Insomnia.rest : (Ferramenta para manipular os Métodos HTTP)
+* Security Module - Cross-Origin Resource Sharing (CORS) - Defines who has authority to access the application
+* Bank used - SQLite
+* Features - Insomnia.rest : (Tool to manipulate HTTP Methods)
 
 ## Front-end
+
 * React.js
 * Router no React - react-router-dom
 * Icones para React - react-icons
 * Cliente HTTP - axios
 
 ## Mobile
+
 * React Native
 * Expo - expo-cli
-* Emulador - Direto no celular: app expo
+* Emulator - Direct on mobile: expo app
 
 
-## Telas
+## Screens
 #### WEB💻
 
 <p align="center">
